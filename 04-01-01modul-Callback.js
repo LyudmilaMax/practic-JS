@@ -105,6 +105,6 @@
 
 //===============
 
-window.navigator.geolocation.getCurrentPosition();
+
 
 
