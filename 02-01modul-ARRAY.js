@@ -203,4 +203,25 @@
 // console.log(newArray);
 
 
+//=====Деструктуризація масивів=======
+// const authors = {
+//     kiwi: 4,
+//     poly: 7,
+//     ajax: 9,
+//     mango: 6,
+// };
+
+// const entries = Object.entries(authors);
+
+// for (const entry of entries) {
+
+//     const [name, rating] = entry;
+
+//     // const name = entry[0];
+//     // const rating = entry[1];
+
+//     console.log(name, rating);
+// }
+
+
 

@@ -305,12 +305,12 @@
 //     d = "222222";
 //     array1.sort();
 //     array2.sort();
-//     for (let i = 0; i <= Math.max(array1.length, array2.length) - 1;i++  )     
+//     for (let i = 0; i <= Math.max(array1.length, array2.length) - 1;i++  )
 //     {
 //         if (array1[i] !== array2[i])
 //         {
 //             return false;
-//        }    
+//        }
 //     }
 //     return true;
 // }
@@ -323,3 +323,4 @@
 // console.log(comparArray(array1, array2, d));
 // console.log(d);
 //  console.log(array1);
+
